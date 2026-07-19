@@ -1,0 +1,14 @@
+{
+  "name": "tff-lisans-bot",
+  "version": "1.0.0",
+  "description": "TFF Lisans Takip Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
